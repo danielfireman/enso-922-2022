@@ -10,4 +10,4 @@ Além dos requisitos funcionais que serão levantados pelos grupos, devemos aten
 ## Equipe:
 
 - Daniel Lacet - Professor
-- Eduardo Lúcio - Monitor
+- Dudu Lúcio - Monitor
