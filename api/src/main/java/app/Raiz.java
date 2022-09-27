@@ -7,6 +7,6 @@ public class Raiz {
 
     @GET
     public double calculaRaiz(@PathParam double op) {
-        return op*op;
+        return Math.sqrt(op);
     }
 }
